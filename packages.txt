@@ -1,0 +1,17 @@
+Express: A Node.js web framework for building web applications and APIs.
+
+MySQL: An open-source relational database management system used to store and manage data in a structured format.
+
+CORS: A package that enables Cross-Origin Resource Sharing (CORS) for a Node.js web application, which allows it to communicate with other domains and servers.
+
+Body-parser: A middleware package for parsing incoming request bodies in a Node.js application.
+
+Axios: A Promise-based HTTP client for making API requests from a web application.
+
+React-router-dom: A package that provides routing functionality for React web applications.
+
+Bootstrap: A CSS framework for building responsive and mobile-first web pages.
+
+Socket.io: A package for real-time bidirectional event-based communication between a client and server.
+
+Nodemon: A tool that helps developers to automatically restart the Node.js application server when any changes are made to the source code.
